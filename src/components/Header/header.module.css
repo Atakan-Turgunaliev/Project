@@ -1,0 +1,17 @@
+header {    
+    background: #ffff;
+}
+
+nav {
+    height: 54px;
+    text-align: center;
+    padding-top: 5px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+a {
+    color: #00b887;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
